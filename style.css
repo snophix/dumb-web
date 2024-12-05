@@ -27,7 +27,7 @@ footer {
 
 .section {
     margin-left: 100px;
-    margin-top: 50px;
+    margin-top: 75px;
 }
 
 header {
@@ -48,4 +48,19 @@ header {
 
 ul {
     padding-left: 100px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    background: #bcbcbc;
 }
