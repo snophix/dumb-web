@@ -1,0 +1,53 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer p {
+    text-align: right;
+    color: #fff;
+    margin-right: 20px;
+}
+
+footer {
+    background: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.section {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: blueviolet;
+}
+
+#tooBig1 {
+    width: 50%;
+    height: auto;
+}
+#tooBig2 {
+    width: 50%;
+    height: auto;
+}
+.images {
+    width: 500px;
+    height: 500px;
+}
+
+ul {
+    padding-left: 100px;
+}
